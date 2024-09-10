@@ -13,6 +13,8 @@ class Tag {
         this.element_text = '';
 
         this.header = {list: []};
+
+        alert('Изменения внесены')
     }
 
     get_properties(tag_object){
